@@ -1,0 +1,11 @@
+Node,Neighbor1,Weight1,Neighbor2,Weight2,Neighbor3,Weight3,Neighbor4,Weight4
+A,B,2.0,D,3.0,F,1.5,,
+B,A,2.0,C,4.0,E,2.5,,
+C,B,4.0,F,2.2,G,3.3,,
+D,A,3.0,E,1.8,H,2.7,,
+E,B,2.5,D,1.8,F,2.8,I,3.1
+F,A,1.5,C,2.2,E,2.8,J,3.4
+G,C,3.3,I,2.9, , , ,
+H,D,2.7,I,3.0,J,1.7,,
+I,E,3.1,G,2.9,H,3.0,J,2.2
+J,F,3.4,I,2.2,H,1.7,,
